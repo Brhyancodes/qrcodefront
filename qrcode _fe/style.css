@@ -1,0 +1,31 @@
+/* Center the QR code */
+
+article > div {
+    text-align: center;
+    margin: 20px auto; /* add some margin to create space around the QR code */
+  }
+  
+  article > div img {
+    display: inline-block; /* make the img element an inline-block element */
+    margin: 0 auto; /* center the img element horizontally */
+    border-radius: 20px; /* add a slight border radius to the QR code */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* add a subtle box shadow to the QR code */
+    
+  }
+
+  @media only screen and (max-width: 450px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+ .para2{
+   text-align: center;
+   margin: 30px auto; /* add some margin to create space around the QR code */
+   border: 2px solid blue;
+   
+ }
+ .para3{
+   text-align: center;
+   margin: 10px auto; /* add some margin to create space around the QR code */
+   font-family: young serif;
+ }

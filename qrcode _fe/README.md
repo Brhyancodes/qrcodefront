@@ -1,0 +1,1 @@
+In this simple project,I have created a simple QR Code using HTML,CSS,I have also used media queries to make the QR Code responsive to the screen. 
